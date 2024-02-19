@@ -44,8 +44,6 @@ Make sure you have the following installed:
 
 ## Usage
 
-- The API documentation can be accessed at: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-
 - Secure APIs are protected using Spring Security, and authentication is required.
 
 ## Contributing
@@ -56,7 +54,5 @@ If you would like to contribute to this project, please follow the [contribution
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
 
-For inquiries and support, please contact [Your Name] at [your.email@example.com].
 
